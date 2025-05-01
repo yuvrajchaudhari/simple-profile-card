@@ -26,6 +26,5 @@ section{
     display: flex;
     flex-direction: column;
     -ms-flex-align: center;
-    justify-content: center;
     border: 2px solid slategray;
 }
