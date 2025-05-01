@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+  }
+
+  body {
+    font-size: 1.6rem; /* 16px */
+  }
+
+  h1 {
+    font-size: 2.4rem; /* 24px */
+  }
+section{
+    margin: 4rem auto;
+    width: 600px;
+    align-items: center;
+}
+.card{
+    width: 40rem;
+    min-height: 30rem;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    -ms-flex-align: center;
+    justify-content: center;
+    border: 2px solid slategray;
+}
